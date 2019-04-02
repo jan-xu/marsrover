@@ -16,7 +16,7 @@ All code is written in Python 3.
 
 The problem concerns a squad of rovers exploring a rectangular plateau on Mars. The plateau is divided up into a Euclidean grid, with coordinates *(0,0)* at the lower-left corner and *(xdim,ydim)* at the upper-right corner (*xdim* and *ydim* are user-specified).
 
-Rovers are deployed at an empty grid point, specified by its initial (x,y) position, as well as its heading ('N', 'E', 'S' or 'W'). Then, it is sent a navigation string, a string of letters, which controls its exploration path across the plateau. The navigation string can consist of either of the following letters:
+Rovers are deployed at an empty grid point, specified by its initial *(x,y)* position, as well as its heading ('N', 'E', 'S' or 'W'). Then, it is sent a navigation string, a string of letters, which controls its exploration path across the plateau. The navigation string can consist of either of the following letters:
 
 - *L* - rotates rover 90 degrees to the left
 - *R* - rotates rover 90 degrees to the right

@@ -71,7 +71,7 @@ class Rover(object):
     plateau."""
 
     orient_dct = {'N': (0, 1), 'E': (1, 0), 'S': (0, -1), 'W': (-1, 0)}
-    orient_lst = list(orient_dct) # list of keys in orientation dictionary
+    orient_lst = ['N', 'E', 'S', 'W'] # list of keys in orientation dictionary
 
     def __init__(self, x, y, head, plat, id=""):
         """Instantiates a Rover object at position (x, y, head) associated with

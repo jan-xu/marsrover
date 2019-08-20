@@ -164,13 +164,12 @@ Final position of rover 2: (5, 1, E)
 
 This script contains five test cases, which test whether the program runs and whether the assumptions for the rovers' movements hold. The test cases are as following:
 
-- Test Case 1: test the given input in the assignment brief (same as in ```main.py```)
-- Test Case 2: test a few customised input to check if code runs
+- Test Case 1 & 2: test a few customised input to check if code runs
 - Test Case 3: try spawning a rover outside the plateau boundaries
 - Test Case 4: try venturing out of the plateau boundaries (rover will stop at the boundary)
 - Test Case 5: try colliding with another rover by a) spawning a rover on an occupied grid point by another rover, and by b) steering a rover onto a grid point occupied by another rover.
 
-Test Cases 1 and 2 should run and output the correct final positions of the rovers, whereas Test Cases 3, 4 and 5 should all indicate some sort of AssertionErrors.
+Test Cases 1 & 2 should run and output the correct final positions of the rovers, whereas Test Cases 3, 4 and 5 should all indicate some sort of AssertionErrors.
 
 ## Author
 [Jan Xu](mailto:jx3915@imperial.ac.uk)

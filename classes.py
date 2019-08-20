@@ -1,6 +1,5 @@
 """
-ThoughtWorks Recruitment Assessment
-Mars Rover Programming Problem
+Mars Rover Exploration Programming Problem
 classes.py
 
 Author:        Jan Xu

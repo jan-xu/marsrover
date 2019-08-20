@@ -1,13 +1,12 @@
 """
-ThoughtWorks Recruitment Assessment
-Mars Rover Programming Problem
+Mars Rover Exploration Programming Problem
 main.py
 
 Author:        Jan Xu
 Telephone:     +1 (510) 926-5428
 Email address: jx3915@imperial.ac.uk
 
-Test cases for the Mars Rover Programming Problem.
+Test cases for the Mars Rover Exploration Programming Problem.
 """
 
 from classes import Plateau, Rover
@@ -17,7 +16,7 @@ from classes import Plateau, Rover
 ############
 
 def testcase1():
-    """Test Case 1: test the given input in the assignment brief
+    """Test Case 1: test a few customised input to check if code runs
 
     >>> plat = Plateau(5, 5)
     >>> rover1 = Rover(1, 2, 'N', plat)

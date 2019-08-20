@@ -1,13 +1,12 @@
 """
-ThoughtWorks Recruitment Assessment
-Mars Rover Programming Problem
+Mars Rover Exploration Programming Problem
 main.py
 
 Author:        Jan Xu
 Telephone:     +1 (510) 926-5428
 Email address: jx3915@imperial.ac.uk
 
-Main program of the Mars Rover Programming Problem, as given by ThoughtWorks.
+Main program of the Mars Rover Exploration Programming Problem.
 Class definitions are imported here, which along with user-defined functions are
 used to prompt the user for plateau and rover configurations, such as:
 

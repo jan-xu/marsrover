@@ -1,6 +1,6 @@
-# ThoughtWorks Recruitment Assessment: Mars Rover Programming Problem
+# Mars Rover Exploration Programming Problem
 
-This README pertains to the Mars Rover Programming Problem, issued as an assessment for the recruitment process to ThoughtWorks Grad Program.
+This README pertains to the Mars Rover Exploration Programming Problem.
 
 The following .py-files are included:
 
@@ -10,7 +10,7 @@ The following .py-files are included:
 
 ```tests.py``` Contains test cases for debugging, using the ```doctest``` module.
 
-All code is written in Python 3.
+All code is written in **Python 3**.
 
 ## Problem Description
 
@@ -128,7 +128,7 @@ Calling the Plateau object, we can see the trail that the rover has made along i
 
 **Recommended usage:** ```$ python3 main.py```
 
-Interactive program of the Mars Rover Programming Problem, as given by ThoughtWorks. Class definitions are imported here, which along with user-defined functions are used to prompt the user for plateau and rover configurations, such as:
+Interactive program of the Mars Rover Exploration Programming Problem. Class definitions are imported here, which along with user-defined functions are used to prompt the user for plateau and rover configurations, such as:
 
 - dimensions of plateau
 - number of rovers deployed
@@ -176,7 +176,3 @@ Test Cases 1 and 2 should run and output the correct final positions of the rove
 [Jan Xu](mailto:jx3915@imperial.ac.uk)
 
 Telephone: +1 (510) 926-5428
-
-## Licence
-
-ThoughtWorks Recruitment
